@@ -1,6 +1,6 @@
 ## Hello there! Eu sou o Weslley Cavallaro 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/weslleycavallaro)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleycavallaro)
 
 ![Weslley GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycavallaro&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleycavallaro&layout=compact&langs_count=16&theme=dark)
